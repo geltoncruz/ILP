@@ -4,9 +4,10 @@ programa
 	funcao inicio()
 	{
 		
-		
 		real base,base2,maior,menor,altura,a
 		leia(base,base2,altura)
+//		se(nao(base2 > 0))
+//		se(base > 0 ou base2 > 0)
 		se(base > 0 e base2 > 0)
 		{
 			se(base > base2)
@@ -35,5 +36,5 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 14; 
+ * @POSICAO-CURSOR = 127; 
  */
