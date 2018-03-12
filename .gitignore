@@ -1,4 +1,7 @@
-﻿# Prerequisites
+﻿#result
+*.cbp
+*.depend
+# Prerequisites
 *.d
 
 # Object files
