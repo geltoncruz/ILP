@@ -3,13 +3,6 @@
 #include <conio.h>
 int main()
 {
-    /*
-    2. Crie um programa que possua um vetor com 4 posições
-    pronto para receber notas de 3 avaliações.
-    Armazene na últma posição do vetor a média aritimética das
-    avalições, depois informe qual avaliação  teve a menor nota
-    E qual avaliação teve a maior nota.
-    */
     float notas[4],aux,menor,maior;
     int i,j;
     for(i = 0; i < 4; i++){
