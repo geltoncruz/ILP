@@ -3,6 +3,7 @@
 *.depend
 # Prerequisites
 *.d
+*.layout
 
 # Object files
 *.o
