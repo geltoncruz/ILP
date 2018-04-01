@@ -46,7 +46,7 @@
 *.idb
 *.pdb
 *.bin/
-bin/*.*
+.bin/Debug/
 # Kernel Module Compile Results
 *.mod*
 *.cmd
