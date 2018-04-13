@@ -11,7 +11,7 @@ int main()
    for(i = 0 ; i < 20 ; i++){
      for(j = 0; j < 10 ; j++){
 
-        if(palavra[i] == vogais[j]){
+        if(vogais[j] == palavra[i]){
             printf("%c",vogais[j]);
             break;
         }
